@@ -3,7 +3,7 @@ import Container from 'react-bootstrap/Container';
 import Form from 'react-bootstrap/Form';
 
 
-  class Formulaire extends Component () {
+  class Formulaire extends Component  {
     render(){
     return (
     <Container>
